@@ -1,0 +1,13 @@
+{
+  "name": "browser-use-example",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A Managed Deep Agent project.",
+  "dependencies": {
+    "managed-deepagents": "0.9.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.1"
+  }
+}
